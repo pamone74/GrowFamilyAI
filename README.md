@@ -78,8 +78,11 @@ Let’s bring families back together — with the help of AI.
 
 ## 📌 Status
 
-> ⚙️ **Actively in Development**  
-> Looking for collaborators, testers, and contributors passionate about family, education, and ethical AI.
+> ⚙️ **Actively in Development** .
+
+---
+## 🧮 Architecture
+![Architecture](https://github.com/user-attachments/assets/dff7cbff-3d86-40db-b170-73d5977650b8)
 
 ---
 ## 🧪 Development Notes
