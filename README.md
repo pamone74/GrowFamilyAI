@@ -82,12 +82,23 @@ Let’s bring families back together — with the help of AI.
 > Looking for collaborators, testers, and contributors passionate about family, education, and ethical AI.
 
 ---
+## 🧪 Development Notes
+
+We are actively customizing and extending **official Azure AI samples** to better serve family-centric use cases. This includes adapting:
+
+- Azure OpenAI agent frameworks.
+- Azure AI Search templates.
+- Real-time communication examples.
+
+These samples serve as a great foundation, which we are evolving with our own logic and purpose-driven architecture.
+
+---
 
 ## 📫 Contact
 
 Have ideas or want to collaborate?  
-📧 Email: [your_email@example.com]  
-🌍 Project URL: https://growfamilyai.azurewebsites.net
+📧 Email: [pamone@student.42abudhab.ae]  
+🌍 Project URL: https://[growfamilyai.azurewebsites.net](https://growfamilyai-fvgmcqftfqbffzav.uaenorth-01.azurewebsites.net/)
 
 ---
 
