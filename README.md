@@ -98,7 +98,7 @@ These samples serve as a great foundation, which we are evolving with our own lo
 
 Have ideas or want to collaborate?  
 📧 Email: [pamone@student.42abudhab.ae]  
-🌍 Project URL: https://[growfamilyai.azurewebsites.net](https://growfamilyai-fvgmcqftfqbffzav.uaenorth-01.azurewebsites.net/)
+🌍 Project URL: https://[growfamilyai.net](https://growfamilyai-fvgmcqftfqbffzav.uaenorth-01.azurewebsites.net/)
 
 ---
 
