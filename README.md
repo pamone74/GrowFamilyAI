@@ -82,7 +82,8 @@ Let’s bring families back together — with the help of AI.
 
 ---
 ## 🧮 Architecture
-![Architecture](https://github.com/user-attachments/assets/dff7cbff-3d86-40db-b170-73d5977650b8)
+![Untitled Diagram](https://github.com/user-attachments/assets/d0136fb7-e208-47e4-9dc6-738c99ca1655)
+
 
 ---
 ## 🧪 Development Notes
